@@ -1,6 +1,6 @@
 module.exports = {
   TELEGRAM_TOKEN: "8234594830:AAEQlP8gP0pXt9FYxxS_9yBwLsWP1iUNVzk",
-  VERCEL_TOKEN: "vcp_1gZEVRRe2yytHebwmf1TxFdhZYz3Nbl5ztGPrzSQAmZNIEdQOX38kAGf", // jangan di ganti
+  VERCEL_TOKEN: "vcp_3hZB2c3JJa0BjCgXOSN920jbUVolrRWAvoRBU2tigmQ03lPut72FXGtc", // jangan di ganti
   ADMIN_ID: "8086581937",
   BOT_USERNAME: "cewbreev_bot", // tanpa @
   REQUIRED_GROUPS: [
