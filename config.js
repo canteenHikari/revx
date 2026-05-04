@@ -4,7 +4,7 @@ module.exports = {
   ADMIN_ID: "8086581937",
   BOT_USERNAME: "cewbreev_bot", // tanpa @
   REQUIRED_GROUPS: [
-    "@maafyaha", // grup telegram lu
+    "@botrev", // grup telegram lu
   ],
   IMGBB_API_KEY: "64f70186d8ebe857ea819e63e0bf295e"
 };
